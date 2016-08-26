@@ -1,0 +1,24 @@
+{
+  "name": "node_lesson1-galov",
+  "version": "1.0.0",
+  "description": "выводит что-то под биппер",
+  "main": "index.js",
+  "dependencies": {
+    "beeper": "^1.1.0",
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GalovEV/GITHUB_Galov-lesson1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GalovEV/GITHUB_Galov-lesson1/issues"
+  },
+  "homepage": "https://github.com/GalovEV/GITHUB_Galov-lesson1#readme"
+}
